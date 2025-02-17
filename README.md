@@ -1,52 +1,50 @@
 # 🐔 Chicken Race Game
 
-¡Bienvenido al repositorio del **Chicken Race Game**! Este es un juego de carreras de gallinas desarrollado en Python utilizando la librería `turtle`. Los jugadores pueden seleccionar el número de gallinas (de 2 a 5) y ver cómo compiten para llegar a la meta.
+Welcome to the **Chicken Race Game** repository! This is a chicken racing game developed in Python using the `turtle` library. Players can select the number of chickens (from 2 to 5) and watch them race to the finish line.
 
 ---
 
-## 🚀 Características principales
+## 🚀 Key Features
 
-- **Animación de gallinas**: Las gallinas cambian de "frames" para simular movimiento.
-- **Multijugador**: Soporta entre 2 y 5 gallinas.
-- **Interfaz gráfica**: Fácil de usar y jugar directamente desde la terminal.
-- **Línea de meta**: Una línea de meta visible indica el final de la carrera.
-- **Ganador aleatorio**: El resultado de la carrera es impredecible y divertido.
-
----
-
-## 🛡️ Reglas del juego
-Número de gallinas:
-
-El juego admite entre 2 y 5 gallinas.
-
-Movimiento aleatorio:
-
-Cada gallina se mueve una distancia aleatoria en cada turno.
-
-Ganador:
-
-La primera gallina en llegar a la línea de meta gana la carrera.
-
-## 📦 Requisitos
-
-Antes de ejecutar el juego, asegúrate de tener instalado lo siguiente:
-
-- **Python 3.8 o superior**: [Descargar Python](https://www.python.org/downloads/)
-- **Librerías necesarias**:
-    - No se requieren librerías adicionales, ya que el juego usa solo módulos estándar de Python (`turtle`, `random`, `time`).
+- **Chicken Animation**: The chickens change "frames" to simulate movement.
+- **Multiplayer**: Supports between 2 and 5 chickens.
+- **Graphical Interface**: Easy to use and play directly from the terminal.
+- **Finish Line**: A visible finish line marks the end of the race.
+- **Random Winner**: The result of the race is unpredictable and fun.
 
 ---
 
-## 🛠️ Configuración
+## 🛡️ Game Rules
 
-1. Clona este repositorio en tu máquina local:
+- **Number of Chickens**:  
+  The game supports between 2 and 5 chickens.
+
+- **Random Movement**:  
+  Each chicken moves a random distance on every turn.
+
+- **Winner**:  
+  The first chicken to reach the finish line wins the race.
+
+## 📦 Requirements
+
+Before running the game, make sure you have the following installed:
+
+- **Python 3.8 or higher**: [Download Python](https://www.python.org/downloads/)
+- **Required Libraries**:
+    - No additional libraries are required as the game only uses Python's standard modules (`turtle`, `random`, `time`).
+
+---
+
+## 🛠️ Setup
+
+1. Clone this repository to your local machine:
 
      ```bash
      git clone https://github.com/SrCidm/chickenRace.git
      cd chickenRace
      ```
 
-2. Ejecuta el juego:
+2. Run the game:
 
      ```bash
      python chickenRace.py
@@ -54,18 +52,19 @@ Antes de ejecutar el juego, asegúrate de tener instalado lo siguiente:
 
 ---
 
-## 📄 Licencia
+## 📄 License
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-## 📞 Contacto
-
-Para cualquier consulta o sugerencia, por favor abre un issue en el repositorio o contacta al autor en [sergio.g.cid.m@gmail.com](mailto:sergio.g.cid.m@gmail.com).
+This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for more details.
 
 ---
 
-¡Diviértete jugando al **Chicken Race Game**!
+## 📞 Contact
+
+For any questions or suggestions, please open an issue in the repository or contact the author at [sergio.g.cid.m@gmail.com](mailto:sergio.g.cid.m@gmail.com).
+
+---
+
+Have fun playing the **Chicken Race Game**!
+
 
 
